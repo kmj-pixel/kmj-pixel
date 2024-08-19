@@ -1,12 +1,18 @@
-🚀 Programming Enthusiast | Language Learner | K-Pop Fan
+# About Me
 
-🎓 Passionate about learning and growing in the world of programming. Always exploring new languages and techniques to enhance my skills.
+**👨‍💻 Programming Enthusiast**  
+Passionate about exploring new programming languages and technologies to enhance my skills and build innovative projects.
 
-🌍 Dedicated student of English and Korean, aiming to expand my cultural and linguistic knowledge.
+**🌍 Language Learner**  
+Currently studying **English** and **Korean** to broaden my cultural and linguistic horizons.
 
-🎵 Music lover, especially K-Pop! The perfect soundtrack for coding and exploring new ideas.
+**🎵 Music Lover**  
+K-Pop fan! Music fuels my coding sessions and inspires creativity.
 
-🔗 Connect with me to exchange ideas on programming, languages, or music!
+**🔗 Let's Connect**  
+Feel free to reach out if you want to discuss programming, languages, or music!
+
+
 
 <!---
 kmj-pixel/kmj-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
